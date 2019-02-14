@@ -2,4 +2,3 @@
 I made this Parralax Effect.
 .....
 m
-.
