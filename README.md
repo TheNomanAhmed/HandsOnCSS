@@ -1,2 +1,2 @@
 # World Cup
-I made this Parralax Effect
+I made this Parralax Effec
